@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-[![LostInCompilation's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostInCompilation)](https://github.com/anuraghazra/github-readme-stats)
+[LostInCompilation's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostInCompilation&theme=one_dark_pro)
 
